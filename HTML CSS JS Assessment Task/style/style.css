@@ -1,0 +1,50 @@
+
+span.welcome{
+    background-color:black;
+    color:white;
+    padding:10px;
+}
+
+.logo{
+    width:5vh;
+}
+
+.navbar{
+    display: flex;
+    gap:1%;
+}
+.navbar-brand{
+    background-color: pink;
+    font-weight: bold;
+}
+.container label{
+    display: block;
+}
+.inputField{
+    margin-top:2%;
+}
+ i{
+    visibility: hidden;
+    position:absolute;
+    right: 8rem;
+    margin-top: 0.3rem;
+}
+.error{
+    color: red;
+}
+.correct{
+    color: green;
+}
+
+.msg{
+    color:green;
+    font-size: 0.7em;
+}
+.submit{
+   background-color: blue;
+   border: 1px solid white;
+   color: white;
+}
+.input{
+    width:80%;
+}
